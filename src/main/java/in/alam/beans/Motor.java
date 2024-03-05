@@ -39,7 +39,7 @@ public class Motor implements InitializingBean ,DisposableBean{
 	}
 	
 	public void dowork() {
-		System.out.println("Motor :: pulling the water ");
+		System.out.println("Motor :: pulling the waters ");
 	}
          //    3 Using Annotation Approach
 	     //@PostConstruct
